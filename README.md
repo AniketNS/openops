@@ -15,7 +15,7 @@ It also comes bundled with its own Excel-like database ([**OpenOps Tables**](htt
 
 At the same time, OpenOps enables collaboration between **FinOps teams, engineers, DevOps, finance, and leadership**, ensuring that cost-saving measures are not just identified but effectively implemented.
 
-OpenOps **integrates seamlessly** with major cloud providers, many third-party FinOps tools, varoious communication platforms and a handful of project management tools.
+OpenOps **integrates seamlessly** with major cloud providers, many third-party FinOps tools, various communication platforms and a handful of project management tools.
 
 > 🏁 Just want to get started? [Click here](https://docs.openops.com/getting-started/quick-start-guide).
 
@@ -29,7 +29,7 @@ OpenOps **integrates seamlessly** with major cloud providers, many third-party F
 * **Deep Integrations** – OpenOps natively connects with cloud providers, databases, analysis tools, communication platforms, and project management systems.
 * **Human-in-the-Loop Controls** – OpenOps comes with HITL controls - across multiple channels - for critical approval workflows.
 * **Workflow Versioning & Traceability** – Test workflow steps, maintain workflow versions, and track every action inside a workflow with logs.
-* **Centralized Management** – Log and process opportunities with tables that allow approvals, dismissals, false-positive marking, and snoozing.
+* **Centralized Management** – Log and process opportunities with tables that allow approvals, dismissals, false-positive markings, and snoozing.
 
 ## **🌟 Why OpenOps?**
 
